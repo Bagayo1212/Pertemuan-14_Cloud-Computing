@@ -1,3 +1,5 @@
 Nama : Pandi Bagayo
 Nim  : 21101205
 Kelas : Q
+jam : 19.50 Wita
+Matkul : Cloud Computing
